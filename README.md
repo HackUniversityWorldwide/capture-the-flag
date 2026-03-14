@@ -7,7 +7,7 @@
 
 ## 📍 For updates on the event date, time, and registration, check:
 
-👉 **CodeCrunchWorldwide.vercel.app**
+👉 **https://codecrunchworldwide.vercel.app**
 
 ---
 
@@ -48,4 +48,4 @@ More details coming soon.
 
 ## 🌐 Stay Updated
 For the latest information on schedules, workshop announcements, and access details, visit:  
-👉 **CodeCrunchWorldwide.vercel.app**
+👉 **https://codecrunchworldwide.vercel.app**
