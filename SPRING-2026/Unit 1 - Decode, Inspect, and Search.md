@@ -182,7 +182,7 @@ print(base64.b64decode("your_text_here").decode())
 
 ---
 
-# 🧩 Challenge Pack 1 — Decode & Search
+# 🧩 Challenge #1 — Decode & Search
 
 ## Goal
 Find the flag in the format:
@@ -265,7 +265,7 @@ Try simple decoding first, then follow the clue exactly.
 
 ---
 
-# 🌐 Challenge Pack 2 — Inspect the Web Page
+# 🌐 Challenge #2 — Inspect the Web Page
 
 ## Goal
 Find the flag in the format:
